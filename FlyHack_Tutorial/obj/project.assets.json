@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "swed32/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/swed32.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/swed32.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "swed32/1.1.0": {
+      "sha512": "fZWXefUAxSrMyqIjMQTUdRVvbUgTdtcx9HBU9eYwZEqzkKOmrj8NeRCGOl+W3+sEQebQHHisylLn7n2aWqKCbw==",
+      "type": "package",
+      "path": "swed32/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/swed32.dll",
+        "swed32.1.1.0.nupkg.sha512",
+        "swed32.nuspec",
+        "swedishman.jpg"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "swed32 >= 1.1.0"
+    ]
+  },
+  "packageFolders": {
+    "D:\\Users\\Warat\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Users\\Warat\\Desktop\\dsg\\PB\\FlyHack_Tutorial\\FlyHack_Tutorial\\FlyHack_Tutorial\\FlyHack_Tutorial.csproj",
+      "projectName": "FlyHack_Tutorial",
+      "projectPath": "D:\\Users\\Warat\\Desktop\\dsg\\PB\\FlyHack_Tutorial\\FlyHack_Tutorial\\FlyHack_Tutorial\\FlyHack_Tutorial.csproj",
+      "packagesPath": "D:\\Users\\Warat\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\Warat\\Desktop\\dsg\\PB\\FlyHack_Tutorial\\FlyHack_Tutorial\\FlyHack_Tutorial\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "D:\\Users\\Warat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "D:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "D:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "swed32": {
+            "target": "Package",
+            "version": "[1.1.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

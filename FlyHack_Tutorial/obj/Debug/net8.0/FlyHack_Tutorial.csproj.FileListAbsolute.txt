@@ -1,0 +1,17 @@
+D:\Users\Warat\Desktop\dsg\PB\FlyHack_Tutorial\FlyHack_Tutorial\FlyHack_Tutorial\obj\Debug\net8.0\FlyHack_Tutorial.csproj.AssemblyReference.cache
+D:\Users\Warat\Desktop\dsg\PB\FlyHack_Tutorial\FlyHack_Tutorial\FlyHack_Tutorial\obj\Debug\net8.0\FlyHack_Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Warat\Desktop\dsg\PB\FlyHack_Tutorial\FlyHack_Tutorial\FlyHack_Tutorial\obj\Debug\net8.0\FlyHack_Tutorial.AssemblyInfoInputs.cache
+D:\Users\Warat\Desktop\dsg\PB\FlyHack_Tutorial\FlyHack_Tutorial\FlyHack_Tutorial\obj\Debug\net8.0\FlyHack_Tutorial.AssemblyInfo.cs
+D:\Users\Warat\Desktop\dsg\PB\FlyHack_Tutorial\FlyHack_Tutorial\FlyHack_Tutorial\obj\Debug\net8.0\FlyHack_Tutorial.csproj.CoreCompileInputs.cache
+D:\Users\Warat\Desktop\dsg\PB\FlyHack_Tutorial\FlyHack_Tutorial\FlyHack_Tutorial\bin\Debug\net8.0\FlyHack_Tutorial.exe
+D:\Users\Warat\Desktop\dsg\PB\FlyHack_Tutorial\FlyHack_Tutorial\FlyHack_Tutorial\bin\Debug\net8.0\FlyHack_Tutorial.deps.json
+D:\Users\Warat\Desktop\dsg\PB\FlyHack_Tutorial\FlyHack_Tutorial\FlyHack_Tutorial\bin\Debug\net8.0\FlyHack_Tutorial.runtimeconfig.json
+D:\Users\Warat\Desktop\dsg\PB\FlyHack_Tutorial\FlyHack_Tutorial\FlyHack_Tutorial\bin\Debug\net8.0\FlyHack_Tutorial.dll
+D:\Users\Warat\Desktop\dsg\PB\FlyHack_Tutorial\FlyHack_Tutorial\FlyHack_Tutorial\bin\Debug\net8.0\FlyHack_Tutorial.pdb
+D:\Users\Warat\Desktop\dsg\PB\FlyHack_Tutorial\FlyHack_Tutorial\FlyHack_Tutorial\bin\Debug\net8.0\swed32.dll
+D:\Users\Warat\Desktop\dsg\PB\FlyHack_Tutorial\FlyHack_Tutorial\FlyHack_Tutorial\obj\Debug\net8.0\FlyHack_.66F9A2FA.Up2Date
+D:\Users\Warat\Desktop\dsg\PB\FlyHack_Tutorial\FlyHack_Tutorial\FlyHack_Tutorial\obj\Debug\net8.0\FlyHack_Tutorial.dll
+D:\Users\Warat\Desktop\dsg\PB\FlyHack_Tutorial\FlyHack_Tutorial\FlyHack_Tutorial\obj\Debug\net8.0\refint\FlyHack_Tutorial.dll
+D:\Users\Warat\Desktop\dsg\PB\FlyHack_Tutorial\FlyHack_Tutorial\FlyHack_Tutorial\obj\Debug\net8.0\FlyHack_Tutorial.pdb
+D:\Users\Warat\Desktop\dsg\PB\FlyHack_Tutorial\FlyHack_Tutorial\FlyHack_Tutorial\obj\Debug\net8.0\FlyHack_Tutorial.genruntimeconfig.cache
+D:\Users\Warat\Desktop\dsg\PB\FlyHack_Tutorial\FlyHack_Tutorial\FlyHack_Tutorial\obj\Debug\net8.0\ref\FlyHack_Tutorial.dll
